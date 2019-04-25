@@ -1,0 +1,2 @@
+Hola soy un texto dentro de un archivo txt
+Yo soy la segunda línea.
